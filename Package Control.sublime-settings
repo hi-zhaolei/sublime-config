@@ -5,12 +5,17 @@
 	"installed_packages":
 	[
 		"AdvancedNewFile",
+		"Better CoffeeScript",
+		"Browser Refresh",
+		"DocBlockr",
+		"Emmet",
+		"FileDiffs",
 		"Git",
+		"JsFormat",
 		"Package Control",
+		"SFTP",
+		"SideBarEnhancements",
 		"SyncedSideBar",
 		"Theme - Spacegray"
-		"CoffeeScript",
-		"Emmet",
-		"SFTP"
 	]
 }

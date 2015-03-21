@@ -17,29 +17,20 @@
 	"font_face": "Monaco",
 	"font_size": 17.0,
 	"highlight_line": true,
-	"hot_exit": false,
+	"hot_exit": true,
 	"ignored_packages":
 	[
-		"Vintage",
-		"Color Highlighter"
-	],
-	"installed_packages":
-	[
-		"AdvancedNewFile",
-		"Emmet",
-		"Git",
-		"Package Control",
-		"SublimeERB",
-		"SyncedSideBar"
+		"Color Highlighter",
+		"Vintage"
 	],
 	"line_padding_bottom": 5,
 	"line_padding_top": 5,
 	"open_files_in_new_window": false,
 	"remember_open_files": false,
-	"spacegray_sidebar_font_large": true, // spacegray theme settings
-	"spacegray_sidebar_tree_large": true, // spacegray theme settings
-	"spacegray_tabs_font_large": true, // spacegray theme settings
-	"spacegray_tabs_normal": true, // spacegray theme settings
+	"spacegray_sidebar_font_large": true,
+	"spacegray_sidebar_tree_large": true,
+	"spacegray_tabs_font_large": true,
+	"spacegray_tabs_normal": true,
 	"tab_size": 2,
 	"theme": "Spacegray.sublime-theme",
 	"translate_tabs_to_spaces": true,
