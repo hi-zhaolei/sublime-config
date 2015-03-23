@@ -1,3 +1,17 @@
+// user keymap
 [
   { "keys": ["shift+tab"], "command": "reindent" , "args": { "single_line": false } }
 ]
+// browser refresh keymap
+[
+    {
+        // "keys": ["super+s"], "command": "browser_refresh", "args": {
+        "keys": ["ctrl+r"], "command": "browser_refresh", "args": {
+            "auto_save": true,
+            "delay": 1.0,
+            "activate_browser": false,
+            "browser_name" : "Google Chrome"
+        }
+    }
+]
+
