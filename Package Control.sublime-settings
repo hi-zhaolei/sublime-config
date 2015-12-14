@@ -1,22 +1,33 @@
 {
+	"bootstrapped": true,
+	"http_proxy": "http://proxy.corp.qihoo.net:8080",
+	"https_proxy": "http://proxy.corp.qihoo.net:8080",
 	"in_process_packages":
 	[
 	],
 	"installed_packages":
 	[
 		"AdvancedNewFile",
+		"Babel",
 		"Better CoffeeScript",
 		"Browser Refresh",
 		"DocBlockr",
 		"Emmet",
 		"FileDiffs",
+		"FileHeader",
 		"Git",
-		"JsFormat",
+		"Hasher",
+		"HTML-CSS-JS Prettify",
+		"Jade",
 		"LESS",
+		"Material Theme",
 		"Package Control",
+		"PackageResourceViewer",
+		"ReactJS",
 		"SFTP",
 		"SideBarEnhancements",
-		"SyncedSideBar",
-		"Theme - Spacegray"
+		"Smarty",
+		"SublimeCodeIntel",
+		"SyncedSideBar"
 	]
 }
