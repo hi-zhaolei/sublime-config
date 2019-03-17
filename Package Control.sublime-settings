@@ -1,33 +1,38 @@
 {
 	"bootstrapped": true,
-	"http_proxy": "http://proxy.corp.qihoo.net:8080",
-	"https_proxy": "http://proxy.corp.qihoo.net:8080",
+	"http_proxy": "http://127.0.0.1:1087",
+	"https_proxy": "http://127.0.0.1:1087",
 	"in_process_packages":
 	[
 	],
 	"installed_packages":
 	[
-		"AdvancedNewFile",
+		"A File Icon",
+		"All Autocomplete",
+		"AutoFileName",
 		"Babel",
-		"Better CoffeeScript",
-		"Browser Refresh",
+		"BracketHighlighter",
 		"DocBlockr",
 		"Emmet",
-		"FileDiffs",
 		"FileHeader",
 		"Git",
-		"Hasher",
-		"HTML-CSS-JS Prettify",
-		"Jade",
-		"LESS",
-		"Material Theme",
+		"GitGutter",
+		"JavaScriptNext - ES6 Syntax",
+		"MarkdownEditing",
+		"Material Theme - Appbar",
+		"Nodejs",
 		"Package Control",
-		"PackageResourceViewer",
-		"ReactJS",
+		"PlainTasks",
+		"Pretty JSON",
+		"ProjectManager",
 		"SFTP",
 		"SideBarEnhancements",
-		"Smarty",
 		"SublimeCodeIntel",
-		"SyncedSideBar"
+		"SublimeLinter",
+		"SyncedSideBar",
+		"Theme - Spacegray",
+		"TrailingSpaces",
+		"Vue Syntax Highlight"
 	]
 }
+
