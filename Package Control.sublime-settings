@@ -8,6 +8,7 @@
 	"installed_packages":
 	[
 		"A File Icon",
+		"AdvancedNewFile",
 		"All Autocomplete",
 		"AutoFileName",
 		"Babel",
@@ -17,6 +18,7 @@
 		"FileHeader",
 		"Git",
 		"GitGutter",
+		"JavaScript Next Snippets",
 		"JavaScriptNext - ES6 Syntax",
 		"MarkdownEditing",
 		"Material Theme - Appbar",

@@ -1,7 +1,25 @@
 {
 	"always_show_minimap_viewport": true,
+	"binary_file_patterns":
+	[
+		"*.jpg",
+		"*.jpeg",
+		"*.png",
+		"*.gif",
+		"*.ttf",
+		"*.tga",
+		"*.dds",
+		"*.ico",
+		"*.eot",
+		"*.pdf",
+		"*.swf",
+		"*.jar",
+		"*.zip",
+		"node_modules/**"
+	],
 	"bold_folder_labels": true,
 	"caret_style": "phase",
+	"close_windows_when_empty": true,
 	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
 	"default_line_ending": "unix",
 	"draw_minimap_border": true,
@@ -15,9 +33,11 @@
 	],
 	"folder_exclude_patterns":
 	[
-		".git",
 		".svn",
-		"tmp/cache"
+		".git",
+		".hg",
+		"CVS",
+		".vscode"
 	],
 	"font_face": "Monaco",
 	"font_options":
@@ -37,12 +57,13 @@
 	"material_theme_arrow_folders": true,
 	"material_theme_big_fileicons": true,
 	"material_theme_bold_tab": true,
-	"material_theme_compact_panel": true,
+	"material_theme_bullet_tree_indicator": true,
 	"material_theme_compact_sidebar": true,
 	"material_theme_contrast_mode": true,
 	"material_theme_panel_separator": true,
 	"material_theme_small_statusbar": true,
 	"material_theme_tabs_autowidth": true,
+	"material_theme_tabs_separator": true,
 	"material_theme_tree_headings": true,
 	"open_files_in_new_window": true,
 	"remember_open_files": false,
@@ -50,6 +71,7 @@
 	"tab_size": 2,
 	"theme": "Material-Theme.sublime-theme",
 	"translate_tabs_to_spaces": true,
-	"trim_trailing_white_space_on_save": true
+	"trim_trailing_white_space_on_save": true,
+	"vintage_start_in_command_mode": true
 }
 
